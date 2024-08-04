@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/krishnpanchal14" target="blank"><img src="https://img.shields.io/twitter/follow/krishnpanchal14?logo=twitter&style=for-the-badge" alt="krishnpanchal14" /></a> </p>
 
-- 🔭 I’m currently working on **MERN stack development Anv Web3**
+- 🔭 I’m currently working on **MERN stack development And Web3**
 
 - 💬 Ask me about **react js/ next js , react native, node js**
 
