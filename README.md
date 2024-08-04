@@ -7,19 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/krishnpanchal14" target="blank"><img src="https://img.shields.io/twitter/follow/krishnpanchal14?logo=twitter&style=for-the-badge" alt="krishnpanchal14" /></a> </p>
 
-- 🔭 I’m currently working on **MERN stack development**
+- 🔭 I’m currently working on **MERN stack development Anv Web3**
 
-- 🌱 I’m currently learning **react native**
-
-- 👨‍💻 All of my projects are available at [https://krishn-portfolio.netlify.app/](https://krishn-portfolio.netlify.app/)
-
-- 💬 Ask me about **react js , react native, node js**
+- 💬 Ask me about **react js/ next js , react native, node js**
 
 - 📫 How to reach me **krishnpanchal14@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QV-Xf7UUHj_Q8jUp-ybaIHAnATb2bm4g/view?usp=sharing](https://drive.google.com/file/d/1QV-Xf7UUHj_Q8jUp-ybaIHAnATb2bm4g/view?usp=sharing)
-
-- ⚡ Fun fact **I think I m emotional 🙃🤣**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
