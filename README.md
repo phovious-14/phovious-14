@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Krishn Panchal</h1>
-<h3 align="center">A passionate Full stack web developer from India</h3>
+<h1 align="center">GM 👋, I'm Krishn Panchal</h1>
+<h3 align="center">A passionate Full stack web3 dev 🧑‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phovious-14&label=Profile%20views&color=0e75b6&style=flat" alt="phovious-14" /> </p>
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/krishnpanchal14" target="blank"><img src="https://img.shields.io/twitter/follow/krishnpanchal14?logo=twitter&style=for-the-badge" alt="krishnpanchal14" /></a> </p>
 
-- 🔭 I’m currently working on **MERN stack development And Web3**
+- 🔭 I’m currently working on **web3 products and protocols**
 
-- 💬 Ask me about **react js/ next js , react native, node js**
+- 💬 Ask me about **web3, blockchain, next js / typescript, react native, node js**
 
 - 📫 How to reach me **krishnpanchal14@gmail.com**
 
